@@ -1,5 +1,53 @@
-indexwebsiteopdracht.css
+
+h1 {
+	text-align: center;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 800px;
+	height: 3000px;
+	padding: 40px;
+	border: solid blue 2px;
+}
+
+#navigationBar {
+	background: #D8D8D8;
+	box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.20);
+	border-radius: 8px;
+	width: 780px;
+	height: 30px;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+}
+
+.background{
+	background:url(images/background.png);
+	background-size: cover;
+}
+
+#helgoland, #australia, #madagascar{
+	width: 300px;
+	height: auto;
+}
 
 
-<body> 
-</body>
+#center {
+
+	clear: both;
+	width: 780px;
+	height:800px;
+	border: solid black 2px;
+	padding: 5px;
+	margin: 5px;
+}
+
+}
+#footer {
+	clear: both;
+	padding: 20px;
+}
+
+
+
