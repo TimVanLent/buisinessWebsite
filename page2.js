@@ -17,8 +17,8 @@ function cycleImages2(){
       $active.fadeOut(1500,function(){
     $active.css('z-index',-2).show().removeClass('active');
           $next.css('z-index',0).addClass('active');
+      });
     }
-
 
 $(document).ready(function(){
 
