@@ -157,7 +157,7 @@ div.opt {
 }
 
 .picture:hover{
-    opacity: 0;
+    opacity: 0.5;
 }
 
 #description {
